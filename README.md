@@ -1,5 +1,7 @@
 # Faulty Cat
 
+![Fault Cat Render 1](./FaultyCat-1.png)
+
 > ## Firmware and host tools have moved
 >
 > This repository now holds the **hardware design** only. The
